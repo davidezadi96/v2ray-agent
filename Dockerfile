@@ -1,4 +1,4 @@
 
-RUN chmod a+x install.sh
+RUN chmod +x install.sh
 
 ./install
